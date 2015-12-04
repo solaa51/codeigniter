@@ -13,8 +13,8 @@ class Tencent_user_info
     private $_ci = NULL;
 
     private $app_param = array( //配置参数
-        'app_id'  => '101274484',
-        'app_key' => 'dcd18b9df65453fc666637e9437765e8'
+        'app_id'  => '',
+        'app_key' => ''
     );
     private $input_param = array( //初始化传入参数
         'platform_type' => 1, //QQ授权页显示样子   1pc版 或 2wap版
