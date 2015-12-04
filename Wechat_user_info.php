@@ -13,8 +13,8 @@ class Wechat_user_info
     private $_ci = NULL;
 
     private $app_param = array( //配置参数
-        'app_id'  => 'wx3087b2736d4a3574',
-        'app_key' => '1dedcba1fe05f1146541d790486acd6c'
+        'app_id'  => '',
+        'app_key' => ''
     );
     private $input_param = array( //初始化传入参数
         'callback_uri' => ''
